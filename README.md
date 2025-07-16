@@ -1,5 +1,7 @@
 # U1253A/B Multimeter Battery Charger
 
+![3D render](https://github.com/rogersstuart/U1253ChargerBoost/blob/main/Images/U1253ChargerBoost.png)
+
 ## Overview
 
 This device is a compact, thoughtfully designed battery charger made specifically for the U1253A and U1253B multimeters. Compared to the original OEM charger, it’s noticeably smaller and lighter, making it easy to carry in a tool bag or store in your workspace. It features a convenient USB Type-C input port, so you can power it with most standard phone chargers — no need for a bulky proprietary adapter.
