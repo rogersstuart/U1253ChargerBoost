@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: U1253ChargerBoost.PcbDoc   7/16/2025  4:43:11 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : U1253ChargerBoost-RoundHoles.TXT
+ASCII SlotHoles File : U1253ChargerBoost-SlotHoles.TXT
+EIA File   : U1253ChargerBoost.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             124       PTH        11.12inch (282.49mm)
+T2      32mil (0.8mm)                                             Slot              4         PTH        1.46inch (37.04mm)
+T3      211mil (5.357mm)                                          Round             2         PTH        0.75inch (19.00mm)
+T4      30mil (0.749mm)                                           Round             2         NPTH       0.23inch (5.78mm)
+T5      32mil (0.8mm)                                             Round             2         NPTH       0.09inch (2.30mm)
+T6      94mil (2.4mm)                                             Round             5         NPTH       4.45inch (113.03mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              139
+
+Total Processing Time (hh:mm:ss) : 00:00:00
